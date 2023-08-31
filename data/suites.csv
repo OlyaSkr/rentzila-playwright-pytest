@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Aug 31 13:42:44 GMT 2023","Thu Aug 31 13:42:48 GMT 2023","4402","tests","test_ c201","TestLogin","","","test_login_with_uppercase_email",""
+"passed","Thu Aug 31 13:42:50 GMT 2023","Thu Aug 31 13:42:52 GMT 2023","2110","tests","test_c200","TestLogin","","","test_login_with_no_credentials",""
+"passed","Thu Aug 31 13:42:38 GMT 2023","Thu Aug 31 13:42:42 GMT 2023","3818","tests","test_ c201","TestLogin","","","test_login_with_valid_credentials",""
